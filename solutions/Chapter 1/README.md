@@ -1,0 +1,1 @@
+여기에 solutions1.json에 대한 설명 후 커밋
